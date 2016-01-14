@@ -7,7 +7,7 @@ package Memoria_da_Historia_pcs;
 
 import java.util.Random;
 import java.util.Scanner;
-import Memoria_da_Historia_pcs.Peca;
+import Memoria_da_Historia_pcs.Carta;
 
 
 /**

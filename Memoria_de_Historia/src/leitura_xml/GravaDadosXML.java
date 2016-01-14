@@ -72,11 +72,11 @@ public class GravaDadosXML {
             } catch (IOException ex) {
                 Logger.getLogger(GravaDadosXML.class.getName()).log(Level.SEVERE, null, ex);
             }
-       
+        
            
     }
 
-       public static Usuario recuperarJogo() throws IOException {
+      /* public static Usuario recuperarJogo() throws IOException {
         Usuario usuario = new Usuario();
         File arquivo = new File(USERDATA_XML);
         if (arquivo.exists()) {
@@ -85,7 +85,7 @@ public class GravaDadosXML {
             }
         }    
         return usuario;
-    }
+    }*/
 }
 
     
